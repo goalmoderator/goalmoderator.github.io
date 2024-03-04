@@ -1,5 +1,11 @@
 title: Goal Moderator
 description: The light version of Goal mentor is now available in the ChatGBT Store
+
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: another value
+
+
 google_analytics:
 theme: jekyll-theme-cayman
